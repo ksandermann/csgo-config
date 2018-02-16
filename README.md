@@ -13,5 +13,24 @@ An exception for this is the videosettings, which you can simply change ingame a
 
 *config.cfg* executes autoexec.cfg, which then executes all the other configs.
 
+## Screensettings
+I'm playing on a 165 hz screen with gsync enabled.
+1280x1024 stretched.
+
+## Mousesettings
+- 1000 dpi
+- 6/11 windows
+- win cursor acceleration on
+- usb refreshrate 500hz
+
+## Startoptions
+CS:GO startoptions (may be outdated):
+*-novid +exec autoexec -threads 4 -high -noforcemaccel -noforcemspd -noforcemparms -32bp -tickrate 128*
+
+
+
+
+
+
 
 by Kevin Sandermann, feel free to comment and contribute!
