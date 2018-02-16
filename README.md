@@ -1,2 +1,17 @@
-# csgo-config
-config repo for cs:go
+# CS:GO config
+This repository holds an exemplary config template for CS:GO configs.
+
+## How to use
+- Delete (or move for backup purposes) all contents from *Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg*
+- Delete (or move for backup purposes) all contents from *...\Steam\userdata\<YOURSTEAMTRADEID>\730\local\cfg*
+- Copy the whole content of this repository to *...\Steam\userdata\<YOURSTEAMTRADEID>\730\local\cfg*
+
+## How it works
+CS:GO automatically executes config.cfg on startup. All the settings you change in the game's UI will be written to *config.cfg*. As we do not want the *config.cfg* to be overwritten from any ingame settings, the file is read-only. Therefore, if you want to change any settings, do not change them ingame but rather put them in the config files provided.
+
+An exception for this is the videosettings, which you can simply change ingame as they are placed in a separate config, *video.txt*.
+
+*config.cfg* executes autoexec.cfg, which then executes all the other configs.
+
+
+by Kevin Sandermann, feel free to comment and contribute!
