@@ -14,7 +14,7 @@ An exception for this is the videosettings, which you can simply change ingame a
 *config.cfg* executes autoexec.cfg, which then executes all the other configs.
 
 ## Screensettings
-I'm playing on a 165 hz screen with gsync enabled.
+I'm using a 165 hz screen with gsync enabled.
 1920x1440 stretched on native wqhd.
 
 ## Mousesettings
@@ -26,11 +26,3 @@ I'm playing on a 165 hz screen with gsync enabled.
 ## Startoptions
 CS:GO startoptions (may be outdated):
 *-novid +exec autoexec -threads 4 -high -noforcemaccel -noforcemspd -noforcemparms -32bp -tickrate 128*
-
-
-
-
-
-
-
-by Kevin Sandermann, feel free to comment and contribute!
