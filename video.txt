@@ -14,9 +14,9 @@
 	"setting.csm_quality_level"		"3"
 	"setting.mat_software_aa_strength"		"1"
 	"setting.mat_motion_blur_enabled"		"0"
-	"setting.fullscreen"		"1"
 	"setting.defaultres"		"1920"
 	"setting.defaultresheight"		"1440"
 	"setting.aspectratiomode"		"0"
+	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"0"
 }
